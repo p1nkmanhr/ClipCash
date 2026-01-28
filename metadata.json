@@ -1,0 +1,22 @@
+{
+  "name": "ClipCash",
+  "symbol": "CLIP",
+  "description": "ClipCash official token",
+  "image": "https://raw.githubusercontent.com/p1nkmanhr/ClipCash/main/logo.png",
+  "external_url": "https://clipcash.site",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/p1nkmanhr/ClipCash/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "links": {
+      "twitter": "https://x.com/ruk82082",
+      "telegram": "https://t.me/clipcashcryptoo",
+      "website": "https://clipcash.site"
+    }
+  }
+}
